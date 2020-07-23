@@ -1,10 +1,10 @@
-# product_search
+# Props & States
 
 ### Props relationship Diagram ###
 
 <img src="./react_props.png" alt="props"/>
 
-Apologies if this is a bit messy, but the crossover between different classes really helped me understand and appreciate the different interactions between components!
+Apologies if this is a bit messy, but the crossover between different classes really helped me understand and appreciate the interactions between components!
 
 
 ### Intent ###
