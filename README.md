@@ -1,6 +1,6 @@
 # Props & States
 
-### Props relationship Diagram ###
+### Props Relationship Diagram ###
 
 <img src="./react_props.png" alt="props"/>
 
